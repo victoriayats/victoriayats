@@ -1,3 +1,5 @@
+![Victoria Yatsenko](https://user-images.githubusercontent.com/115048138/206917591-c5dac678-8fc4-4f10-8d48-84572c88f152.png)
+
 ### Hi there 👋
 
 <!--
