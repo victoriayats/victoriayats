@@ -1,4 +1,6 @@
-### Hi there 👋 I'm a clinical psychologist interested in building web applications with a focus on server-side & databases
+### Hi there 👋
+
+<p>I'm a clinical psychologist interested in building web applications with a focus on server-side & databases.</p>
 
 <!--
 **victoriayats/victoriayats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
