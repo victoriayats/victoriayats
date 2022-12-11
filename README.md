@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi ✌🏻
 
 <p>I'm a clinical psychologist interested in building web applications with a focus on server-side & databases.</p>
 
