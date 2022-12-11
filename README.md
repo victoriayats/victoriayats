@@ -4,7 +4,7 @@
 
 <p>To do so, I started learning PHP, SQL, and Apache Server.</p>
 
-<p>So far, I have created several front-end apps that you can find in my <a href="https://victoriayats.github.io/" target="_blank">portfolio</a>.</p>
+<p>So far, I have created several front-end apps that you can find in my <a href="https://victoriayats.github.io/">portfolio</a>.</p>
 
 <!--
 **victoriayats/victoriayats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
