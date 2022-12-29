@@ -4,6 +4,8 @@
 
 <p>In my <a href="https://victoriayats.github.io/">portfolio</a>, you can find all the projects I have created.</p>
 
+<p>For collaboration, here is my <a href="mailto:victoriayats.dev@gmail.com">email</a>.</p>
+
 <!--
 **victoriayats/victoriayats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
