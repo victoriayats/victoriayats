@@ -2,7 +2,7 @@
 
 <p>I'm a clinical psychologist interested in building web applications with a focus on server-side & databases.</p>
 
-<p>So far, I have created several front-end applications that you can find in my <a href="https://victoriayats.github.io/">portfolio</a>.</p>
+<p>In my <a href="https://victoriayats.github.io/">portfolio</a>, you can find all the projects I have created.</p>
 
 <!--
 **victoriayats/victoriayats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
